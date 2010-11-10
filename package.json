@@ -1,0 +1,21 @@
+{
+	"name": "node-simplewhois",
+	"author": "David Coallier",
+	"email": "david.coallier@gmail.com",
+	"dependencies": ['net'],
+	"contributors": [],
+	"keywords": [
+            "whois",
+            "system"
+	],	
+	"mappings":{},
+	"overlay": {},
+	"githubName": "node-simplewhois",
+	"engines": {"node":">=0.1.94"},
+	"type": "zip",
+	"version": "0.1",
+	"location": "http://github.com/davidcoallier/node-simplewhois",
+	"license":"BSD"
+}
+
+
