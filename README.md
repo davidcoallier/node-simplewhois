@@ -21,7 +21,7 @@ Now that you have the Whois object instantiated, you can make a *whois* request 
   
     who.query('github.com', function(response) {
         sys.puts(sys.inspect(response));
-    }
+    });
 
 In the event where one would need or want to use a different whois server on a different port, this information
 can be changed using the constructor as such:
