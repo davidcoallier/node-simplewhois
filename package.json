@@ -15,6 +15,7 @@
   "githubName": "node-simplewhois",
   "engines": {"node":">=0.1.94"},
   "type": "zip",
+  "main": "lib/whois.js",
   "version": "0.1.0",
   "location": "http://github.com/davidcoallier/node-simplewhois",
   "license":"BSD"
